@@ -1,23 +1,7 @@
-# my-first-repo
+# my-first-project
 
-Учебный репозиторий для освоения Git и Markdown.
-
-## Информация
 
 - **Дата создания:** 04.10.2026
-- **Автор:** Акмарал
-
-## Изображение
+- **Автор:** Нурланова Акмарал ИВТм-1-26
 
 ![Логотип Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
-
-## Пример кода
-
-### Псевдокод
-
-```python
-def greet(name):
-    print("Привет, " + name + "!")
-
-greet("мир")
-```
